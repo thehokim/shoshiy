@@ -1,0 +1,38 @@
+{
+  "name": "ShoShiy — Premium IT & 3D Studio",
+  "short_name": "ShoShiy",
+  "description": "Разработка веб-приложений, мобильных приложений, 3D визуализация в Ташкенте. 5+ лет опыта, 100+ проектов.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-light-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-dark-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/shoshi-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "ru",
+  "dir": "ltr",
+  "categories": ["business", "technology", "productivity", "design"],
+  "scope": "/",
+  "prefer_related_applications": false
+}
