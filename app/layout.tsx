@@ -77,7 +77,7 @@ export const metadata: Metadata = {
   verification: {
     // Добавьте после регистрации
     // google: 'ваш-код-google-search-console',
-    // yandex: 'ваш-код-yandex-webmaster',
+    yandex: '2217c0ec5c7e9132',
   },
   
   robots: {
